@@ -1,3 +1,6 @@
 [submodule "arm-eabi-4.6"]
 	path = arm-eabi-4.6
 	url = https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6
+[submodule "arm-eabi-4.7"]
+	path = arm-eabi-4.7
+	url = https://android.googlesource.com/platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.7
